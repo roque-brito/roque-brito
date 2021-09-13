@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roque-brito
 - 👀 I’m interested in Computer Science, Python programing and Data Science (... for now)
-- 🌱 I’m currently learning Git and Python and stuying Systems Analysis and Development (1st year at the university)
+- 🌱 I’m currently learning Git and Python and stuying Systems Analysis and Development (1st year at the university) and Data Science! 
 - 💞️ I’m looking to collaborate on projects that involve data analysis (using Python)
 - 📫 How to reach me: linkedin.com/in/roquebrito
 
